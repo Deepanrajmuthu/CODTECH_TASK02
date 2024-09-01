@@ -1,9 +1,9 @@
-Name: Deepanraj M
-Company: CODTECH IT SOLUTIONS
-ID: CT08DS6685
-Domain: PYTHON PROGRAMMING
-Duration: August to September 2024
-Mentor: Muzammil Ahmed
+Name: Deepanraj M <br>
+Company: CODTECH IT SOLUTIONS <br>
+ID: CT08DS6685 <br>
+Domain: PYTHON PROGRAMMING <br>
+Duration: August to September 2024 <br>
+Mentor: Muzammil Ahmed <br>
 
 
 
